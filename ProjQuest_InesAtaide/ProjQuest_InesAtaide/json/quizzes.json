@@ -1,0 +1,2009 @@
+[
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-23T14:56:59.147109+01:00",
+    "Questions": [
+      {
+        "Id": 2,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#sum",
+          "#arithmetic"
+        ],
+        "Name": "1 \u002B 3 = ",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "2",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "5",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "4",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#sum",
+          "#arithmetic"
+        ],
+        "Name": "2 \u002B 2 = 3",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 14,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#division",
+          "#arithmetic"
+        ],
+        "Name": "4 / 4 = ",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "2",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "1",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "0",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 15,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#subtraction",
+          "#arithmetic"
+        ],
+        "Name": "4 - 1 = 2",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 13,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#multiplication",
+          "#arithmetic"
+        ],
+        "Name": "2 * 2 = ",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "0",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "4",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "1 \u002B 1",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 2,
+        "GivenAnswers": [
+          "4"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 3,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 14,
+        "GivenAnswers": [
+          "1"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 15,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 13,
+        "GivenAnswers": [
+          "4"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-23T15:14:01.881673+01:00",
+    "Questions": [
+      {
+        "Id": 6,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#division",
+          "#arithmetic"
+        ],
+        "Name": "2 / 2 = 1",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Yes",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 5,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#multiplication",
+          "#arithmetic"
+        ],
+        "Name": "2 * 2 = ",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "1",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "4",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "2",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#sum",
+          "#arithmetic"
+        ],
+        "Name": "2 \u002B 2 = 3",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 11,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#subtraction",
+          "#arithmetic"
+        ],
+        "Name": "5 - 5 = ",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "5",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "1",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "0",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#sum",
+          "#multiplication",
+          "#subtraction",
+          "#arithmetic"
+        ],
+        "Name": "3 =",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "5 - 3",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "2 * 2",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "1 \u002B 2",
+            "IsCorrect": true
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 6,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 5,
+        "GivenAnswers": [
+          "4"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 3,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 11,
+        "GivenAnswers": [
+          "0"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 4,
+        "GivenAnswers": [
+          "1 \u002B 2"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "Student": "Diogo.Melo_080401174",
+    "Date": "2022-10-23T16:08:57.70741+01:00",
+    "Questions": [
+      {
+        "Id": 15,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#subtraction",
+          "#arithmetic"
+        ],
+        "Name": "4 - 1 = 2",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 6,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#division",
+          "#arithmetic"
+        ],
+        "Name": "2 / 2 = 1",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Yes",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 13,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#multiplication",
+          "#arithmetic"
+        ],
+        "Name": "2 * 2 = ",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "4",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "1 \u002B 1",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "0",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 5,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#multiplication",
+          "#arithmetic"
+        ],
+        "Name": "2 * 2 = ",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "4",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "1",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "2",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#sum",
+          "#multiplication",
+          "#subtraction",
+          "#arithmetic"
+        ],
+        "Name": "3 =",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "1 \u002B 2",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "2 * 2",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "5 - 3",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 15,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 6,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 13,
+        "GivenAnswers": [
+          "1 \u002B 1"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 5,
+        "GivenAnswers": [
+          "1"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 4,
+        "GivenAnswers": [
+          "2 * 2"
+        ],
+        "IsRight": false
+      }
+    ],
+    "Score": 20
+  },
+  {
+    "Student": "Diogo.Melo_080401174",
+    "Date": "2022-10-23T18:48:03.690684+01:00",
+    "Questions": [
+      {
+        "Id": 4,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#sum",
+          "#multiplication",
+          "#subtraction",
+          "#arithmetic"
+        ],
+        "Name": "3 =",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "1 \u002B 2",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "5 - 3",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "2 * 2",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 10,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#division",
+          "#multiplication",
+          "#arithmetic"
+        ],
+        "Name": "4 / 2 = ",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "2",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "1 * 1",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "0",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 92,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#sum",
+          "#arithmetic"
+        ],
+        "Name": "5 \u002B 4 =",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "7 \u002B 2",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "8",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "9",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#sum",
+          "#arithmetic"
+        ],
+        "Name": "2 \u002B 2 = 3",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 9,
+        "Subject": "Math",
+        "Level": 1,
+        "Tag": [
+          "#multiplication",
+          "#arithmetic"
+        ],
+        "Name": "2 * 2 = 6",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 4,
+        "GivenAnswers": [
+          "1 \u002B 2",
+          "5 - 3",
+          "2 * 2"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 10,
+        "GivenAnswers": [
+          "2",
+          "1 * 1",
+          "0"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 92,
+        "GivenAnswers": [
+          "7 \u002B 2",
+          "8",
+          "9"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 3,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 9,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 40
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-23T21:38:50.191751+01:00",
+    "Questions": [
+      {
+        "Id": 52,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Spain?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "London",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Madrid",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Berlin",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 54,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of France?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Bern",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Paris",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Milan",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 58,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#continents",
+          "#countries"
+        ],
+        "Name": "Portugal is in Europe.",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Yes",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 59,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#continents",
+          "#countries"
+        ],
+        "Name": "South Africa is in Asia.",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 51,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Portugal?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Paris",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Lisboa",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Madrid",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 52,
+        "GivenAnswers": [
+          "Berlin"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 54,
+        "GivenAnswers": [
+          "Milan"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 58,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 59,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 51,
+        "GivenAnswers": [
+          "Paris"
+        ],
+        "IsRight": false
+      }
+    ],
+    "Score": 20
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-24T00:33:57.067415+01:00",
+    "Questions": [
+      {
+        "Id": 48,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "USA",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Portugal",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Canada",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "France",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 49,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Australia",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Germany",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Cayman Islands",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 54,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of France?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Bern",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Paris",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Milan",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 51,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Portugal?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Madrid",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Paris",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Lisboa",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 47,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "China",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Italy",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Thailand",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "Portugal",
+          "France"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 49,
+        "GivenAnswers": [
+          "Germany"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 54,
+        "GivenAnswers": [
+          "Paris"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 51,
+        "GivenAnswers": [
+          "Lisboa"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 47,
+        "GivenAnswers": [
+          "Italy"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-24T04:22:57.844453+01:00",
+    "Questions": [
+      {
+        "Id": 53,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Italy?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Madrid",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Athens",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Rome",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 49,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Australia",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Germany",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Cayman Islands",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 47,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "China",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Italy",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Thailand",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 51,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Portugal?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Paris",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Lisboa",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Madrid",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 55,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of the United Kingdom?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Riga",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Oslo",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "London",
+            "IsCorrect": true
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 53,
+        "GivenAnswers": [
+          "Rome"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 49,
+        "GivenAnswers": [
+          "Germany"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 47,
+        "GivenAnswers": [
+          "Italy"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 51,
+        "GivenAnswers": [
+          "Lisboa"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 55,
+        "GivenAnswers": [
+          "London"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-24T04:36:04.027433+01:00",
+    "Questions": [
+      {
+        "Id": 55,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of the United Kingdom?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Riga",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Oslo",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "London",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 54,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of France?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Milan",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Bern",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Paris",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 50,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Spain",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Angola",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Greece",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Mozambique",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 48,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Portugal",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "USA",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Canada",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "France",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 51,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Portugal?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Paris",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Lisboa",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Madrid",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 55,
+        "GivenAnswers": [
+          "Riga"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 54,
+        "GivenAnswers": [
+          "Bern"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 50,
+        "GivenAnswers": [
+          "Spain"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "Portugal"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 51,
+        "GivenAnswers": [
+          "Paris"
+        ],
+        "IsRight": false
+      }
+    ],
+    "Score": 0
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-24T04:39:10.471239+01:00",
+    "Questions": [
+      {
+        "Id": 55,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of the United Kingdom?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Riga",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Oslo",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "London",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 50,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Spain",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Angola",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Greece",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Mozambique",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 47,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "China",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Thailand",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Italy",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 60,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#continents",
+          "#countries"
+        ],
+        "Name": "Bolivia is in Africa.",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 52,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Spain?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Madrid",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Berlin",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "London",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 55,
+        "GivenAnswers": [
+          "London"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 50,
+        "GivenAnswers": [
+          "Spain",
+          "Greece"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 47,
+        "GivenAnswers": [
+          "Italy"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 60,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 52,
+        "GivenAnswers": [
+          "Madrid"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-24T04:40:29.920948+01:00",
+    "Questions": [
+      {
+        "Id": 53,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Italy?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Rome",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Athens",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Madrid",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 52,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Spain?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Berlin",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "London",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Madrid",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 51,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Portugal?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Paris",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Lisboa",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Madrid",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 47,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Italy",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "China",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Thailand",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 57,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#continentes",
+          "#countries"
+        ],
+        "Name": "The United States of America are in Africa.",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 53,
+        "GivenAnswers": [
+          "Rome"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 52,
+        "GivenAnswers": [
+          "Madrid"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 51,
+        "GivenAnswers": [
+          "Lisboa"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 47,
+        "GivenAnswers": [
+          "Italy"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 57,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-24T04:46:34.40523+01:00",
+    "Questions": [
+      {
+        "Id": 49,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Australia",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Germany",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Cayman Islands",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 55,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of the United Kingdom?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "London",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Riga",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Oslo",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 59,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#continents",
+          "#countries"
+        ],
+        "Name": "South Africa is in Asia.",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 48,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "France",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Portugal",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Canada",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "USA",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 54,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of France?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Milan",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Paris",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Bern",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 49,
+        "GivenAnswers": [
+          "Australia"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 55,
+        "GivenAnswers": [
+          "London"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 59,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "France"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 54,
+        "GivenAnswers": [
+          "Milan"
+        ],
+        "IsRight": false
+      }
+    ],
+    "Score": 20
+  },
+  {
+    "Student": "Ines.Ataide_080401185",
+    "Date": "2022-10-25T16:09:53.984623+01:00",
+    "Questions": [
+      {
+        "Id": 57,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#continentes",
+          "#countries"
+        ],
+        "Name": "The United States of America are in Africa.",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 52,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#capitals",
+          "#countries"
+        ],
+        "Name": "What\u0027s the capital city of Spain?",
+        "Type": 2,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Madrid",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "London",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Berlin",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 48,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Portugal",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "France",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "USA",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "Canada",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 59,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#continents",
+          "#countries"
+        ],
+        "Name": "South Africa is in Asia.",
+        "Type": 3,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "No",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 47,
+        "Subject": "Geography",
+        "Level": 1,
+        "Tag": [
+          "#europeanUnion",
+          "#countries"
+        ],
+        "Name": "Which ones are members of the EU?",
+        "Type": 1,
+        "OnlyTest": false,
+        "Answers": [
+          {
+            "Answer": "Italy",
+            "IsCorrect": true
+          },
+          {
+            "Answer": "Thailand",
+            "IsCorrect": false
+          },
+          {
+            "Answer": "China",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ],
+    "Answers": [
+      {
+        "QuestionId": 57,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 52,
+        "GivenAnswers": [
+          "Madrid"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "Portugal"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 59,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 47,
+        "GivenAnswers": [
+          "Italy"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 40
+  }
+]

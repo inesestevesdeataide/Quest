@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjQuest_InesAtaide", "ProjQuest_InesAtaide.csproj", "{6A94EDF7-DADA-4FAA-B280-FF496CEB9B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest.Utils", "..\Quest.Utils\Quest.Utils.csproj", "{D140EDD0-6063-4528-B39B-C39AE449DCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A94EDF7-DADA-4FAA-B280-FF496CEB9B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A94EDF7-DADA-4FAA-B280-FF496CEB9B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A94EDF7-DADA-4FAA-B280-FF496CEB9B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A94EDF7-DADA-4FAA-B280-FF496CEB9B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D140EDD0-6063-4528-B39B-C39AE449DCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D140EDD0-6063-4528-B39B-C39AE449DCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D140EDD0-6063-4528-B39B-C39AE449DCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D140EDD0-6063-4528-B39B-C39AE449DCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCAE351-B41D-4F09-916B-77FE962B66D2}
+	EndGlobalSection
+EndGlobal

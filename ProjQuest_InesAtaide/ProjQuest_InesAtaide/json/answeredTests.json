@@ -1,0 +1,337 @@
+[
+  {
+    "TestId": 1,
+    "Student": "Ines.Ataide_080401185",
+    "GivenAnswers": [
+      {
+        "QuestionId": 93,
+        "GivenAnswers": [
+          "3"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 92,
+        "GivenAnswers": [
+          "9",
+          "7 \u002B 2"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "France",
+          "Portugal"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 15,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "TestId": 2,
+    "Student": "Diogo.Melo_080401250",
+    "GivenAnswers": [
+      {
+        "QuestionId": 93,
+        "GivenAnswers": [
+          "3"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 92,
+        "GivenAnswers": [
+          "8"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "Canada"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 15,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      }
+    ],
+    "Score": 25
+  },
+  {
+    "TestId": 1,
+    "Student": "Diogo.Melo_080401174",
+    "GivenAnswers": [
+      {
+        "QuestionId": 93,
+        "GivenAnswers": [
+          "3"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 92,
+        "GivenAnswers": [
+          "9",
+          "7 \u002B 2"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "France",
+          "Portugal"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 15,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "TestId": 2,
+    "Student": "Diogo.Melo_080401174",
+    "GivenAnswers": [
+      {
+        "QuestionId": 93,
+        "GivenAnswers": [
+          "3"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 92,
+        "GivenAnswers": [
+          "7 \u002B 2",
+          "9"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "France",
+          "Portugal"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 15,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "TestId": 3,
+    "Student": "Diogo.Melo_080401174",
+    "GivenAnswers": [
+      {
+        "QuestionId": 15,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 93,
+        "GivenAnswers": [
+          "3"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "France",
+          "Portugal"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 92,
+        "GivenAnswers": [
+          "9",
+          "7 \u002B 2"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 100
+  },
+  {
+    "TestId": 4,
+    "Student": "Diogo.Melo_080401174",
+    "GivenAnswers": [
+      {
+        "QuestionId": 15,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 93,
+        "GivenAnswers": [
+          "0"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 92,
+        "GivenAnswers": [
+          "7 \u002B 2",
+          "9",
+          "8"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 48,
+        "GivenAnswers": [
+          "USA",
+          "Canada",
+          "Portugal",
+          "France"
+        ],
+        "IsRight": false
+      }
+    ],
+    "Score": 0
+  },
+  {
+    "TestId": 9,
+    "Student": "Ines.Ataide_080401185",
+    "GivenAnswers": [
+      {
+        "QuestionId": 6,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 3,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 9,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      }
+    ],
+    "Score": 66.66666666666667
+  },
+  {
+    "TestId": 9,
+    "Student": "Ines.Ataide_080401185",
+    "GivenAnswers": [
+      {
+        "QuestionId": 6,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 3,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 9,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 66.66666666666667
+  },
+  {
+    "TestId": 9,
+    "Student": "Ines.Ataide_080401185",
+    "GivenAnswers": [
+      {
+        "QuestionId": 6,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 3,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 9,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      }
+    ],
+    "Score": 0
+  },
+  {
+    "TestId": 9,
+    "Student": "Ines.Ataide_080401185",
+    "GivenAnswers": [
+      {
+        "QuestionId": 9,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": false
+      },
+      {
+        "QuestionId": 6,
+        "GivenAnswers": [
+          "Yes"
+        ],
+        "IsRight": true
+      },
+      {
+        "QuestionId": 3,
+        "GivenAnswers": [
+          "No"
+        ],
+        "IsRight": true
+      }
+    ],
+    "Score": 66.66666666666667
+  }
+]
